@@ -1,9 +1,8 @@
 {
  "actions": [],
- "autoname": "YY.MM.DD.########",
+ "autoname": "YY.MM.DD.###",
  "creation": "2021-01-30 13:00:44.834963",
  "doctype": "DocType",
- "document_type": "Document",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
@@ -350,10 +349,9 @@
   }
  ],
  "hide_toolbar": 1,
- "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2021-02-09 08:31:10.069203",
+ "modified": "2021-02-27 15:25:57.566674",
  "modified_by": "Administrator",
  "module": "Logistic",
  "name": "Shipping",
